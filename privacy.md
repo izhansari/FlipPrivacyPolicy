@@ -54,5 +54,5 @@ If we ever update FLIP in a way that changes this policy (for example, adding op
 
 Questions about this policy:
 
-- **Email:** *(your contact email — replace this line)*
+- **Email:** [hello@better-norms.com](mailto:hello@better-norms.com)
 - **GitHub:** [github.com/izhansari/TwoMinRuleTimer](https://github.com/izhansari/TwoMinRuleTimer)
